@@ -76,7 +76,7 @@ Mais detalhes podem ser visualizados no arquivo: [`relatorio_olist.md`](relatori
 
 **Diego J. L. Figueredo**  
 Estudante de Análise de Dados e Python  
-[LinkedIn](https://www.linkedin.com/in/diegojlfigueredo/)  
+[LinkedIn](https://www.linkedin.com/in/diego-juliano-lima-figueredo-7112816a/)  
 [GitHub](https://github.com/diegojlfigueredo)
 
 ---
