@@ -68,7 +68,6 @@ Os principais insights extraídos da análise incluem:
 - A forma de pagamento mais usada foi **cartão de crédito**, seguida por **boleto**.
 - Clientes que tiveram pedidos **sem atraso** avaliaram melhor (média de **4,21**) do que aqueles com pedidos **atrasados** (média de **2,56**).
 
-Mais detalhes podem ser visualizados no arquivo: [`relatorio_olist.md`](relatorio_olist.md)
 
 ---
 
