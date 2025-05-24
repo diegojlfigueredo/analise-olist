@@ -1,32 +1,27 @@
-# 📦 Análise de Vendas - Olist
 
-Este projeto analisa os dados de uma loja virtual brasileira (Olist), com o objetivo de entender o comportamento de vendas, logística e satisfação dos clientes.
+# 📊 Análise de Vendas - Olist
 
-## 📁 Conjunto de Dados
+Este projeto tem como objetivo realizar uma análise exploratória dos dados de vendas da empresa **Olist**, utilizando Python, Pandas, Matplotlib e outras ferramentas de análise de dados.
 
-- Os dados vêm do Olist Store Dataset (Kaggle).
-- Contém informações sobre pedidos, clientes, produtos, pagamentos e avaliações.
+---
 
-## 🔍 Objetivos
+## 📁 Sobre o Projeto
 
-- Identificar o tempo médio de entrega.
-- Avaliar a relação entre tipo de produto e avaliação do cliente.
-- Entender os principais métodos de pagamento.
-- Observar o desempenho por região e categoria.
+A Olist é uma plataforma que conecta pequenos lojistas a grandes marketplaces. O conjunto de dados foi disponibilizado publicamente no [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), e traz informações reais sobre transações de e-commerce no Brasil.
 
-## 📊 Técnicas Utilizadas
+Este projeto busca responder perguntas de negócio e extrair insights valiosos a partir dos dados.
 
-- Python (Pandas, Matplotlib, Seaborn)
-- SQL (exploração inicial em bases relacionais)
-- Visualizações gráficas e análise descritiva
+---
 
-## 📌 Principais Insights
+## 🎯 Objetivos da Análise
 
-- O tempo de entrega médio varia muito por estado.
-- Produtos com entrega rápida tendem a ter melhores avaliações.
-- A maioria dos pagamentos é feita via cartão de crédito.
+- Calcular a porcentagem de pedidos com atraso.
+- Analisar o tempo médio, mínimo e máximo de entrega.
+- Verificar a distribuição de vendas por mês.
+- Identificar os meios de pagamento mais utilizados.
+- Verificar a média de avaliação (review score) para pedidos com e sem atraso.
+- Criar gráficos e relatórios visuais com os resultados.
 
-<<<<<<< HEAD
 ---
 
 ## 🧰 Tecnologias Utilizadas
@@ -73,6 +68,7 @@ Os principais insights extraídos da análise incluem:
 - A forma de pagamento mais usada foi **cartão de crédito**, seguida por **boleto**.
 - Clientes que tiveram pedidos **sem atraso** avaliaram melhor (média de **4,21**) do que aqueles com pedidos **atrasados** (média de **2,56**).
 
+Mais detalhes podem ser visualizados no arquivo: [`relatorio_olist.md`](relatorio_olist.md)
 
 ---
 
@@ -88,5 +84,3 @@ Estudante de Análise de Dados e Python
 ## 📜 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar com os devidos créditos.
-=======
->>>>>>> f22d3f5 (Organiza estrutura, adiciona READMEs e limpa arquivos antigos)

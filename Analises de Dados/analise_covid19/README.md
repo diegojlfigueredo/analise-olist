@@ -1,28 +1,27 @@
-# 🦠 Análise da COVID-19 no Brasil
+# 🦠 Análise de Dados - COVID-19
 
-Este projeto tem como objetivo explorar e visualizar dados da pandemia de COVID-19 no Brasil, com foco na evolução de casos e óbitos ao longo do tempo. É uma análise prática feita como parte do meu portfólio de estudos em Análise de Dados.
+Este projeto realiza uma análise exploratória sobre os dados da pandemia de COVID-19, com foco no Brasil, utilizando dados públicos de casos confirmados e óbitos.
 
-## 📚 Dados Utilizados
+## 📁 Fonte de Dados
 
-Os dados utilizados neste projeto foram extraídos de fontes públicas, como o portal do Ministério da Saúde e repositórios confiáveis com dados em tempo real da COVID-19.
+- Base de dados do Ministério da Saúde ou fontes como Our World in Data (caso aplicável).
+- Dataset contendo colunas como data, casos confirmados, óbitos, localização.
 
-## 📈 Técnicas e Ferramentas
+## 🎯 Objetivos da Análise
 
-- **Linguagem:** Python
-- **Bibliotecas:** Pandas, Matplotlib, Seaborn, NumPy
-- **Análises:** 
-  - Séries temporais
-  - Médias móveis de casos e mortes
-  - Tendências e picos da pandemia
-- **Visualizações:** Gráficos de linha e áreas, com destaque para variações sazonais
+- Visualizar a evolução dos casos ao longo do tempo.
+- Aplicar médias móveis para entender tendências.
+- Comparar o impacto em diferentes estados ou regiões.
+- Destacar períodos de pico da pandemia.
 
-## 📝 Relatório
+## 🛠 Ferramentas e Técnicas
 
-Além do notebook interativo (`covid19.ipynb`), o projeto inclui um relatório em Markdown com os principais insights extraídos dos dados:
+- Python (Pandas, Matplotlib, Seaborn)
+- Visualizações temporais
+- Cálculo de médias móveis para suavização de séries temporais
 
-- Evolução da pandemia no Brasil
-- Comparações entre diferentes momentos críticos
-- Reflexões baseadas nas curvas de crescimento e queda
+## 📌 Principais Conclusões
 
-## 📂 Estrutura
-
+- A pandemia apresentou ondas distintas ao longo dos meses.
+- Estados mais populosos tiveram os maiores volumes de casos e óbitos.
+- As médias móveis ajudam a entender melhor a tendência dos dados diários.
